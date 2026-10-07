@@ -1,0 +1,11 @@
+Order Region,Shipping Mode,Total_Shipments,Delayed_Shipments,On_Time_Shipments,Early_Shipments,Canceled_Shipments,Average_Delay_Gap,Non_Canceled,Delay_Rate_%,On_Time_Rate_%,Efficiency_Index
+Central America,First Class,4382,4185,0,0,197,1.0,4185,100.0,0.0,-100.0
+Western Europe,First Class,4312,4107,0,0,205,1.0,4107,100.0,0.0,-100.0
+South America,First Class,2311,2154,0,0,157,1.0,2154,100.0,0.0,-100.0
+Southeast Asia,First Class,1552,1482,0,0,70,1.0,1482,100.0,0.0,-100.0
+Southern Europe,First Class,1504,1462,0,0,42,1.0,1462,100.0,0.0,-100.0
+Northern Europe,First Class,1418,1361,0,0,57,1.0,1361,100.0,0.0,-100.0
+Oceania,First Class,1366,1270,0,0,96,1.0,1270,100.0,0.0,-100.0
+South Asia,First Class,1283,1240,0,0,43,1.0,1240,100.0,0.0,-100.0
+Caribbean,First Class,1193,1132,0,0,61,1.0,1132,100.0,0.0,-100.0
+West of USA,First Class,1149,1072,0,0,77,1.0,1072,100.0,0.0,-100.0

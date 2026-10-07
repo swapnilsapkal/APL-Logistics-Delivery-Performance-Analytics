@@ -1,0 +1,5 @@
+﻿Shipping Mode,Total_Shipments,Delayed_Shipments,On_Time_Shipments,Delay_Rate_%,On_Time_Rate_%,Efficiency_Index
+First Class,27814,26513,0,100.0,0.0,-100.0
+Second Class,35216,26987,6819,79.83,20.17,-59.66
+Same Day,9737,4454,4839,47.93,52.07,4.14
+Standard Class,107752,41023,20538,39.77,19.91,-19.86

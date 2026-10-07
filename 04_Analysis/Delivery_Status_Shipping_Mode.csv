@@ -1,0 +1,5 @@
+Shipping Mode,Advance_Shipping,Late_Delivery,Shipping_Canceled,Shipping_On_Time,Total_Shipments,Late_%,Advance_%,On_Time_%,Canceled_%
+First Class,0,26513,1301,0,27814,95.32,0.0,0.0,4.68
+Same Day,0,4454,444,4839,9737,45.74,0.0,49.7,4.56
+Second Class,0,26987,1410,6819,35216,76.63,0.0,19.36,4.0
+Standard Class,41592,41023,4599,20538,107752,38.07,38.6,19.06,4.27

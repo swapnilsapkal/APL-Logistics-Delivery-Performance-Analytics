@@ -1,0 +1,4 @@
+﻿Customer Segment,Total,Delayed,On_Time,Early,Canceled,Avg_Delay_Gap,Non_Canceled,Delay_Rate_%,On_Time_Rate_%,Cancellation_Rate_%
+Consumer,93504,51248,16784,21388,4084,0.56,89420,57.31,18.77,4.37
+Corporate,54789,29982,9690,12856,2261,0.56,52528,57.08,18.45,4.13
+Home Office,32226,17747,5722,7348,1409,0.58,30817,57.59,18.57,4.37

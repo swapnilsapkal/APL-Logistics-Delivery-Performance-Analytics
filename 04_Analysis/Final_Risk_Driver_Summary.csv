@@ -1,0 +1,6 @@
+Driver,Metric,Minimum_%,Maximum_%,Range_pp,Lowest_Risk_Group,Highest_Risk_Group,Assessment
+Shipping Mode,Delay Rate,39.77,100.0,60.23,Standard Class,First Class,Strong
+Category,Delay Rate,49.27,68.85,19.58,Men's Golf Clubs,Golf Bags & Carts,Moderate
+Department,Delay Rate,56.77,61.44,4.67,Discs Shop,Pet Shop,Weak
+Market,Delay Rate,56.84,57.69,0.85,Africa,Europe,Weak
+Customer Segment,Delay Rate,57.08,57.59,0.51,Corporate,Home Office,Weak

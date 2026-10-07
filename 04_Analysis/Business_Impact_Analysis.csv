@@ -1,0 +1,5 @@
+Delivery Performance,Shipments,Total_Sales,Avg_Sales,Total_Profit,Avg_Profit,Avg_Order_Value,Avg_Quantity,Avg_Discount_Rate,Avg_Benefit_Per_Order,Shipment_Share_%,Sales_Share_%
+Canceled,7754,1570305.33,202.52,160482.34,20.7,181.81,2.13,0.1,20.7,4.3,4.27
+Delayed,98977,20126394.88,203.34,2140051.68,21.62,182.69,2.13,0.1,21.62,54.83,54.71
+Early,41592,8518007.73,204.8,935225.28,22.49,184.08,2.13,0.1,22.49,23.04,23.16
+On-Time,32196,6570026.37,204.06,731143.67,22.71,183.43,2.12,0.1,22.71,17.84,17.86

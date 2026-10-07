@@ -1,0 +1,5 @@
+Shipping Mode,Total_Shipments,Delayed_Shipments,On_Time_Shipments,Early_Shipments,Canceled_Shipments,Avg_Delay_When_Delayed,Max_Delay,Severe_Delays_2Plus,Non_Canceled,Delay_Rate_%,On_Time_Rate_%,Severe_Delay_Rate_%,Efficiency_Index
+First Class,27814,26513,0,0,1301,1.0,1,0,26513,100.0,0.0,0.0,-100.0
+Second Class,35216,26987,6819,0,1410,2.5,4,21013,33806,79.83,20.17,59.67,-59.66
+Same Day,9737,4454,4839,0,444,1.0,1,0,9293,47.93,52.07,0.0,4.14
+Standard Class,107752,41023,20538,41592,4599,1.51,2,21740,103153,39.77,19.91,20.18,-19.86

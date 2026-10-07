@@ -1,0 +1,13 @@
+﻿KPI,Value
+Total Shipments,180519.0
+Delayed Shipments,98977.0
+On-Time Shipments,32196.0
+Early Shipments,41592.0
+Canceled Shipments,7754.0
+Delay Rate %,57.29
+On-Time Rate %,18.64
+Early Delivery Rate %,24.07
+Cancellation Rate %,4.3
+Average Delay Gap,0.57
+Average Delay When Delayed,1.62
+Late Delivery Risk Rate %,54.83

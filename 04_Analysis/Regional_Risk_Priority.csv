@@ -1,0 +1,24 @@
+﻿Order Region,Total_Shipments,Risk_1,Risk_Rate_%,Avg_Delay_Gap,Risk_Priority
+South Asia,7731,4350,56.27,0.6,High Risk + High Volume
+Western Europe,27109,15140,55.85,0.6,High Risk + High Volume
+East of USA,6915,3849,55.66,0.58,High Risk + High Volume
+Southeast Asia,9539,5297,55.53,0.56,High Risk + High Volume
+Central America,28341,15518,54.75,0.56,High Risk + High Volume
+Central Africa,1677,972,57.96,0.64,High Risk + Low Volume
+East Africa,1852,1036,55.94,0.57,High Risk + Low Volume
+South of USA,4045,2256,55.77,0.58,High Risk + Low Volume
+Eastern Europe,3920,2182,55.66,0.58,High Risk + Low Volume
+Central Asia,553,306,55.33,0.65,High Risk + Low Volume
+West Asia,6009,3322,55.28,0.57,High Risk + Low Volume
+US Center,5887,3252,55.24,0.59,High Risk + Low Volume
+North Africa,3232,1762,54.52,0.55,Lower Priority
+Southern Africa,1157,617,53.33,0.48,Lower Priority
+West Africa,3696,1953,52.84,0.55,Lower Priority
+Canada,959,468,48.8,0.39,Lower Priority
+Southern Europe,9431,5129,54.38,0.52,Lower Risk + High Volume
+Eastern Asia,7280,3955,54.33,0.57,Lower Risk + High Volume
+South America,14935,8111,54.31,0.56,Lower Risk + High Volume
+Northern Europe,9792,5292,54.04,0.55,Lower Risk + High Volume
+Oceania,10148,5482,54.02,0.56,Lower Risk + High Volume
+West of USA,7993,4313,53.96,0.56,Lower Risk + High Volume
+Caribbean,8318,4415,53.08,0.55,Lower Risk + High Volume

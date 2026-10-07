@@ -1,0 +1,5 @@
+Delay Gap,Delayed_Shipments,Share_of_All_Shipments_%,Share_of_Delayed_Shipments_%,Severity
+1,60647,33.6,58.65,Minor Delay (+1 day)
+2,28718,15.91,27.77,Moderate Delay (+2 days)
+3,7052,3.91,6.82,Severe Delay (+3 days)
+4,6983,3.87,6.75,Severe Delay (+4 days)
