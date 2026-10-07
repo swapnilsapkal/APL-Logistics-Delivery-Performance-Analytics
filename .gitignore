@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+01_Raw_Data/
+03_Cleaned_Data/
+04_Analysis/APL_Logistics_Analysis.csv
